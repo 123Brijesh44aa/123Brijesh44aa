@@ -45,10 +45,30 @@ Welcome to my GitHub profile! I'm a passionate developer and creator. This is wh
 
 ## My Projects
 
-### Flutter-Responsive-UI ([link-to-mydocument-repo](https://github.com/123Brijesh44aa/Flutter-Responsive-UI))
+### Flutter-Responsive-UI ([Project Repo Link](https://github.com/123Brijesh44aa/Flutter-Responsive-UI))
 <img src="https://github.com/123Brijesh44aa/Flutter-Responsive-UI/assets/83857442/4c9289ee-c683-4ae5-98c2-af56ad946d21" width="300" height="200">
 
 In this project, I have created 2 UIs, first for web and second for Android app so that this app looks responsive at both the places.
+
+
+### My Awesome Project
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/83857442/222886066-f9475927-4ab4-427f-badd-6192d7fed6a7.png" alt="Project Screenshot" width="300" style="border-radius: 12px;">
+  <img src="https://user-images.githubusercontent.com/83857442/222886081-9d11a8a5-7ba8-471a-866c-1dc70b66f21b.png" alt="Project Screenshot" width="300" style="border-radius: 12px;">
+  <img src="https://user-images.githubusercontent.com/83857442/222886095-7ba92b70-1ace-4c5d-81ac-e1f3fa4f69a0.png" alt="Project Screenshot" width="300" style="border-radius: 12px;">
+</div>
+
+#### Project Description
+<div style="border: 2px solid indigo; border-radius: 12px; padding: 20px;">
+  My Awesome Project is a cutting-edge application that does incredible things. It solves problems, delights users, and pushes the boundaries of technology.
+</div>
+
+#### Technologies Used
+<div align="left">
+  <img src="https://th.bing.com/th/id/OIP.D2ppCycgCvm90WV3CNIM-AHaHa?rs=1&pid=ImgDetMain" alt="KOTLIN" title="KOTLIN" width="50" style="border-radius: 50%;">
+  <img src="https://th.bing.com/th/id/OIP.AYW0kcLCdQYNZUtbiLBqvAHaIA?rs=1&pid=ImgDetMain" alt="JETPACK COMPOSE" title="JETPACK COMPOSE" width="55" style="border-radius: 50%;">
+  <img src="https://th.bing.com/th/id/R.53550b71279fe0017ff5adfd6eff1e8e?rik=IEeabiMYZYVZbw&pid=ImgRaw&r=0" alt="3rd PARTY LIBRARIES" title="3rd PARTY LIBRARIES" width="55" style="border-radius: 50%;">
+</div>
 
 
 ## Connect with Me
