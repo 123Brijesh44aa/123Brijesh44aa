@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer and creator. This is wh
 In this project, I have created 2 UIs, first for web and second for Android app so that this app looks responsive at both the places.
 
 
-### My Awesome Project
+### Flutter Instagram Profile UI Clone
 <div align="left">
   <img src="https://user-images.githubusercontent.com/83857442/222886066-f9475927-4ab4-427f-badd-6192d7fed6a7.png" alt="Project Screenshot" width="300" style="border-radius: 12px;">
   <img src="https://user-images.githubusercontent.com/83857442/222886081-9d11a8a5-7ba8-471a-866c-1dc70b66f21b.png" alt="Project Screenshot" width="300" style="border-radius: 12px;">
@@ -60,7 +60,7 @@ In this project, I have created 2 UIs, first for web and second for Android app 
 
 #### Project Description
 <div style="border: 2px solid indigo; border-radius: 12px; padding: 20px;">
-  My Awesome Project is a cutting-edge application that does incredible things. It solves problems, delights users, and pushes the boundaries of technology.
+  Simple Instagram profile UI clone in flutter for both Mobile and Tablate
 </div>
 
 #### Technologies Used
