@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer and creator. This is wh
 
 ## About Me
 
-- 🚀 Flutter enthusiast and mobile app developer
 - 💻 Full-stack developer with a focus on web technologies
 - 🌐 Open source contributor
 - 🎓 Computer Science graduate
