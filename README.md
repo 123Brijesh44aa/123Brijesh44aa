@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> ***SYSTEM INITIALIZATION***
+##  ***SYSTEM INITIALIZATION***
 
 
 
